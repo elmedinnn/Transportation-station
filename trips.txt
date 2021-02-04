@@ -1,0 +1,4 @@
+menna	Bus	Internal	Dahab-Luxor	No-Stops	Round-Trip	1	160.0	no-assigned-drivers	
+menna	Bus	Internal	Dahab-Luxor	No-Stops	Round-Trip	1	160.0	no-assigned-drivers	
+menna	Bus	Internal	Dahab-Luxor	No-Stops	Round-Trip	2	160.0	no-assigned-drivers	
+mariam	MiniBus	Internal	Alexandria-cairo	No-Stops	Round-Trip	1	150.0	no-assigned-drivers	
